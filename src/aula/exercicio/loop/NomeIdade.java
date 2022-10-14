@@ -8,7 +8,7 @@ public class NomeIdade {
         Scanner scan = new Scanner(System.in);
 
         String nome;
-        int idade;
+        int idade ;
 
         while(true){
 
