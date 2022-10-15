@@ -1,4 +1,4 @@
-package exercicio;
+package classes2.metodos2.exercicio;
 
 public class execicioQuadrilatero {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package exercicio;
+package classes2.metodos2.exercicio;
 
 public class quadrilatereo {
     public static void area(double lado){
