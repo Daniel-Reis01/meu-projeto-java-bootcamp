@@ -26,5 +26,7 @@ public class somandoMultiplos {
         } 
     }
     System.out.println(soma);
+    //o resultado fora do escopo mostra o ultimo resultado
+    //se colocar em cima do aspas ele mostra cada resultado um por um ate finalizar
  }  
 }
