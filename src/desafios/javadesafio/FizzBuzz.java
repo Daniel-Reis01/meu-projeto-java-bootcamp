@@ -8,7 +8,7 @@ public class FizzBuzz {
         Scanner number = new Scanner(System.in);
 
         int num = number.nextInt();
-
+  // se num divisel por 3 ou se num divisivel por 5 emprime fizzbuzz
       if(num % 3 == 0 && num % 5 == 0){
         System.out.println("FizzBuzz");
       } else if (num % 3 == 0 || num % 5 == 0 ){
